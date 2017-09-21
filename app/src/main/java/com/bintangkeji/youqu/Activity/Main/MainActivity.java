@@ -122,5 +122,6 @@ public class MainActivity extends AppCompatActivity {
                 currentIndex = 3;
                 break;
         }
+        showFragment();
     }
 }
